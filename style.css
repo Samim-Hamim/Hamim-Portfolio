@@ -58,4 +58,19 @@ ul li a:hover           {
 
 .page {
     margin-left: 50%;
+    animation: card-full 0.5s linear forwards;
+}
+.card-deck {
+    width: 1110px;
+
+}
+
+@keyframes card-full {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
