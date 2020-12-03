@@ -47,7 +47,7 @@ ul li a:hover           {
     color: white;
 }
 
-.home-page-full          {
+.page-full          {
     background: black;
     display: flex;
     justify-content: center;
@@ -56,6 +56,6 @@ ul li a:hover           {
     height: 83vh;
 }
 
-.home-page {
+.page {
     margin-left: 50%;
 }
